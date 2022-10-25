@@ -1,7 +1,7 @@
 {
   "name": "blockstagram",
   "version": "0.1.0",
-  "homepage": "https://haibn.github.io/hw4-haibn",
+  "homepage": "https://fullstack-decal-fa22.github.io/hw4-haibn",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
